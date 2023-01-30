@@ -1,5 +1,7 @@
 # Data Science Roadmap
 
+<img src="https://thedatascientist.com/wp-content/uploads/2019/09/data_science.jpg" width="70%" height="70%">
+
 ## DataCamp
 
 | Career Track | Status | 
