@@ -1,7 +1,7 @@
 # Data Science Roadmap
 
 <p align="center">
-<img src="https://thedatascientist.com/wp-content/uploads/2019/09/data_science.jpg" width="70%" height="70%">
+<img src="https://thedatascientist.com/wp-content/uploads/2019/09/data_science.jpg" width="60%" height="60%">
 </p>
 
 ## DataCamp
