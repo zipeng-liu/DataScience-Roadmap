@@ -4,7 +4,7 @@
 
 | Career Track | Status | 
 | :---- | :---- | 
-| [Data Analyst with Python] (https://app.datacamp.com/learn/career-tracks/data-analyst-with-python)| In Progress |
+| [Data Analyst with Python](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python)| In Progress |
 | |  |
 
 ## Coursera
